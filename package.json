@@ -1,6 +1,6 @@
 {
-  "name": "wxbarcode",
-  "version": "1.0.2",
+  "name": "wxbarcode-witt",
+  "version": "1.0.2-fix",
   "description": "微信小程序条码、二维码生成模块",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "条码",
     "二维码"
   ],
-  "author": "Alsey (zamber@gmail.com)",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alsey/wxbarcode/issues"
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alsey/wxbarcode.git"
+    "url": "https://github.com/wangshixiang/wxbarcode.git"
   },
   "devDependencies": {
   	
